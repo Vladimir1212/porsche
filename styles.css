@@ -241,6 +241,9 @@ body {
   .main_wrap {
     display: none;
   }
+  .main_h1 {
+    font-size: 60px;
+  }
 }
 .slider_nav {
   padding-left: 20px;
